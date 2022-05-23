@@ -28,3 +28,5 @@ Cuarto en el archivo package.json agregar las siguientes líneas:
 
 LISTO, en el repositorio tendrás un nuevo branch de gh-pages
 y en la configuracion podrás ver la url publicada.
+
+Creditos: Nick Paz (YT)
